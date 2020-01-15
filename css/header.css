@@ -1,0 +1,30 @@
+img{
+  max-width: 80%;
+  min-height: 0px;
+}
+
+body{
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.blog-header{
+  margin: 0px auto 0px auto;
+  max-width: 1456px;
+  overflow: hidden;
+}
+
+#header{
+  border-bottom: 4px #860303 solid;
+}
+
+#header #titulo{
+  font-weight: normal;
+  font-size: 22px;
+  color: #080b09;
+}
+
+#autor{
+  line-height: 22px;
+  font-size: 16px;
+}
