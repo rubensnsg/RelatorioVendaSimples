@@ -1,0 +1,38 @@
+#rodape{
+  font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  border-top: 1.5px solid #DDDDDD;
+  background-color: #FFFFFF;
+  margin: 0px auto 0px auto;
+  line-height: 20px; 
+  overflow: hidden;
+  color: #323232;
+  clear: both;
+  width: 100%;
+} 
+#sitelink{ 
+  text-decoration: none !important; 
+  color: #9d0436 !important; 
+}
+#versao{
+  font-size: 16px !important;
+  background-color: #ed811b;
+  padding-left: 0px;
+  color: #fefeff;
+  padding-right: 0;
+}
+#versao img{
+  max-height: 34px;
+}
+#versao a{
+  text-decoration: none;
+  color: #fefeff;
+}
+#versao a:hover{
+  color: #EFEFEF;
+}
+#rodape #versao .align-self-center{
+  width: 100%;
+}
+#rodape #autoria{
+  font-size: 16px;
+}

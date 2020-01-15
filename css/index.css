@@ -1,0 +1,143 @@
+#form{
+  padding-top: 0px !important;
+}
+.card-body .form-inline{
+  margin: 0px 0px 0px 0px;
+  padding-bottom: 0px;
+}
+.card-body .form-inline .form-group label{
+  padding-bottom: 4px;
+  font-weight: bold;
+  font-size: 14px;
+  padding-top: 0px !important;
+}
+.card-body .form-inline .form-group input[type=text]{
+  width: 100% !important;
+  font-size: 14px;
+  height: 34px;
+}
+.form-inline .col-form-label{
+
+}
+.card-body .form-inline .form-group input,
+#dataDe, #dataAte, #Hora_Fim, #Hora_Inicio{
+  border-radius: 4px;
+  font-size: 15px;
+  height: 34px;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px; 
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.card-body .form-inline .form-group select{
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 8px 0px 8px;
+  border: 1px solid #ddd;
+  width: 100% !important;
+  font-weight: normal;
+  line-height: 34px;
+  font-size: 14px;
+  height: 34px;
+}
+.card-body .form-inline .fs-wrap{
+  font-size: 14px;
+  width: 100%;
+}
+.card-body .form-inline .fs-label-wrap{
+  line-height: 20px;
+  height: 33px;
+}
+.card-body .form-inline .fs-dropdown{
+  width: 94%;
+}
+.card-body .form-inline #filtro{
+  width: 100%; 
+}
+
+.card .card-header{
+  text-transform: uppercase;
+  padding: 4px 0px 4px 0px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 32px;
+  font-size: 15px;
+}
+
+#dataAte, #dataDe{ 
+  text-align: center;
+} 
+
+table tbody tr td{
+  text-align: center !important;
+  font-size: 15px;
+}
+.titulo{
+  text-align: center !important;
+}
+.card-body{
+  padding: 10px 0px 6px 0px;
+  margin: 8px auto 6px auto;
+  max-width: 98%;
+  min-width: 98%;
+  width: 98%;
+}
+
+#table-responsive{
+  display: none !important;
+}
+#btnCSV, #print{
+  cursor: pointer;
+  margin-top: 0.5rem !important;
+}
+
+.container{
+  max-width: 98%;
+}
+
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+.total-row{
+  text-align: right !important;
+  background-color: #ed811b;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.total-geral-row{
+  text-align: right !important;
+  background-color: #860303;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+  
+@media print{    
+  .no-print, .no-print *{
+	display: none !important;
+  }
+}
+  
+
+@media (min-width: 576px) { ... } 
+ 
+@media (min-width: 768px ) and (max-width: 990px) {  
+  .container{ 
+	max-width: 98%; 
+  }      
+} 
+
+@media (min-width: 992px) {  
+  .container{ 
+    max-width: 98%;
+  }
+} 
+
+@media (min-width: 1200px) {  
+  .container{
+    max-width: 98%; 
+  } 
+}
