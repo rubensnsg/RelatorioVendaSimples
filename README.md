@@ -1,6 +1,13 @@
 # RelatorioVendaSimples
 Relatório para PHP para tabela de vendas simples, com opção de filtro por período e por tipo do produto com impressão em pdf da tabela de resultados e google chart quando mais de um dia com resultados.
 
+
+O banco de dados utilizado é uma versão gratuita para testar até X colunas, então pode criar seu banco em https://www.clever-cloud.com/en/
+
+
+IGNORAR PASTA DO GITHUB---------------------------------------
+
+
 Criei estes arquivos para um processo seletivo cujo teste era em PHP para o cargo de Analista/Programador Pleno
 
   Este projeto utiliza as seguintes tecnologias
