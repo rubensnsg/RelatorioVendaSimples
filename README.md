@@ -49,6 +49,5 @@ Criei estes arquivos para um processo seletivo cujo teste era em PHP para o carg
   IMAGENS(E FAVICON) MERAMENTE ILUSTRATIVAS
   
   
-  Estrutura do layout desenvolvido por Márcio Gastalle Cavalheiro
-  
+  Estrutura do layout desenvolvido por Márcio Gastalle Cavalheiro.
   Para contato utilize o site http://www.inventarte.com.br/
